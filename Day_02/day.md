@@ -2,7 +2,8 @@
 
 atomic_coder
 
-Day 2 #100daysofcode challenge......
+Day 2 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CLAJmIzpQwL/ "Goto Day2 post")
+
 Today with this challenge...........
 .
 .

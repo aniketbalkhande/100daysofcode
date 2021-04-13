@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 14 #100daysofcoding challenge....
+Day 14 #100daysofcoding challenge [ view post here ](https://www.instagram.com/p/CMNUCI1pJp1/ "Goto Day14 post")
 Today with this challenge......
 .
 Learnt about API & Django Rest Framework........😀

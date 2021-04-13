@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 20 #100daysofcode challenge........
+Day 20 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CM2hAdEJRVu/ "Goto Day20 post")
 ..Today with this challenge.........
 ▪️
 🔸Today I learnt about Djangos ORM.😃

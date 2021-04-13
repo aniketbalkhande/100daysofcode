@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 10 #100dysofcode challenge.......
+Day 10 #100dysofcode challenge [ view post here ](https://www.instagram.com/p/CLr1uKOJ_ba/ "Goto Day10 post")
 Today with this challenge.......
 .
 .

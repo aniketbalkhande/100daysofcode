@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 4 #100daysofcode challenge.......
+Day 4 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CLFbr28prK3/ "Goto Day4 post")
 Today with this challenge ..............
 .
 Today I learnt Numpy module in python, watched tutorial on youtube by Keith Galli for the same.

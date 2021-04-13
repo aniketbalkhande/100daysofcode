@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 23 #100daysofcode challenge.....
+Day 23 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CNRfVTBJ-wl/ "Goto Day23 post")
 Today with this challenge.....
 .
 Sorry for late posting, trying my best for being consistent in this challenge...😉

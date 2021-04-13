@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 6 #100dysofcode challenge.......
+Day 6 #100dysofcode challenge [ view post here ](https://www.instagram.com/p/CLKotFPMewL/ "Goto Day6 post")
 Today with this challenge.......
 .
 Today I revised my python notes 📝 and solved some problem solving ability questions on hackerrank.

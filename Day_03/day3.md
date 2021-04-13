@@ -1,6 +1,7 @@
 atomic_coder
 
-Day 3 #100daysofcode challenge..........
+Day 3 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CLCyVIxJ9tK/ "Goto Day3 post")
+
 Today with this challenge.............
 .
 What's up everybody,........... Today I finally got gold badge 5 star in python, it wasn't easy. It took me couple hours of coding in the morning to complete the given tasks. Then I moved to update the typeit project (the 3rd image above)( source code available on GitHub page).

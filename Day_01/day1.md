@@ -1,7 +1,7 @@
 
 atomic_coder
 
-Day 1 #100daysofcode challenge
+Day 1 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CK9iZiqpDpD/ "Goto Day1 post")
 .
 Hay there, what's going on it's Aniket here. Started doing some cool stuff today, a new challenge called #100daysofcode .
 .

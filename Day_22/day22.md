@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 21 #100daysofcode challenge.....
+Day 21 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CNLHcmzJKbu/ "Goto Day22 post")
 Today with this challenge.....
 .
 Today I continued reading django documentation,📝 about the databases specially. Up till now I was using the default dbsqlite3 database in all of my django projects.

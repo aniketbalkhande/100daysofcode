@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 16 #100daysofcode challenge....
+Day 16 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CMcw52qlQpx/ "Goto Day16 post")
 Today with this challenge....
 ▪️
 ▪️.

@@ -1,6 +1,6 @@
 atomic_coder
 
-Day 5 #100dysofcode challenge
+Day 5 #100dysofcode challenge [ view post here ](https://www.instagram.com/p/CLH_Gqpppez/ "Goto Day5 post")
 Today I revised git commands.
 ▪️
 The https://learngitbranching.js.org website provides a visual way of learning git commands. It has a very user friendly interface. I learnt the commands for making branches, merging them, rebase command. Although this rebase command works similar to merge but the advantage is that it makes a nice linear sequence of commits, so it makes commit log repository very cleaner to understand.

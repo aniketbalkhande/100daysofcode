@@ -1,7 +1,7 @@
 
 atomic_coder
 
-Day 24 -25 #100daysofcode
+Day 24 -25 #100daysofcode challenge [ view post here ](https://www.instagram.com/p/CNdSYd4gCj-/ "Goto Day25 post")
 Today with this challenge...
 .
 Hello guys how it's going.... hope you are doing great.😃
